@@ -1,0 +1,139 @@
+[
+  {
+    "version": "0.2.0",
+    "date": "2026-03-03",
+    "labels": {
+      "summaryTitle": "What is new",
+      "detailsTitle": "Update Details"
+    },
+    "summary": {
+      "title": "Biggest Changes in This Release",
+      "points": [
+        {
+          "type": "major",
+          "text": "Live Map Editing: You can now pan, zoom, and rotate in real time with MapLibre, so the map updates instantly as you work."
+        },
+        {
+          "type": "new",
+          "text": "PDF Export: Posters can now be exported as PDF for cleaner and higher-quality printing."
+        },
+        {
+          "type": "major",
+          "text": "Theme Customization: Every selected theme can now be customized with broader color control and your own color values."
+        },
+        {
+          "type": "improved",
+          "text": "PWA and Mobile Experience: Installation flow and mobile behavior are smoother, with better handling for map interaction."
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Maps Go Live",
+        "image": "",
+        "points": [
+          {
+            "type": "major",
+            "text": "Live Map Editing: The map is now fully interactive with MapLibre, so you can pan, zoom, and rotate instantly without pressing a generate button."
+          },
+          {
+            "type": "removed",
+            "text": "No More Generate Step: The old generate-map flow has been removed because updates now render live as you edit."
+          },
+          {
+            "type": "new",
+            "text": "Safer Map Movement: A new Edit Map button helps prevent accidental map movement while adjusting other poster settings."
+          },
+          {
+            "type": "improved",
+            "text": "Better Mobile Handling: Rotation behavior on mobile is now controlled to avoid accidental twists while still keeping full map control available."
+          },
+          {
+            "type": "new",
+            "text": "Precise Navigation Controls: You can move the map with mouse, keyboard, or touch and quickly recenter to your starting location at any time."
+          },
+          {
+            "type": "improved",
+            "text": "Smarter Location Labels: Place names now update live with zoom level, transitioning from city to country and continent context automatically."
+          },
+          {
+            "type": "new",
+            "text": "Layer Visibility Panel: A new collapsible panel lets you toggle water, parks, and buildings, with buildings off by default until close zoom levels."
+          }
+        ]
+      },
+      {
+        "title": "Create and Export More Freely",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "PDF Export: You can now export posters as PDF for sharper print quality and cleaner print workflows."
+          },
+          {
+            "type": "new",
+            "text": "Map-Only Posters: Text can now be hidden so you can export a pure map design when needed."
+          },
+          {
+            "type": "improved",
+            "text": "Distance Freedom: Distance selection is no longer capped at 50,000 meters, enabling much larger compositions."
+          },
+          {
+            "type": "major",
+            "text": "Theme Customization: After selecting a theme, you can now customize nearly every color using presets or your own values."
+          }
+        ]
+      },
+      {
+        "title": "Product and Community Updates",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "New Brand Identity: The app now includes a new logo for a cleaner and more recognizable visual identity."
+          },
+          {
+            "type": "new",
+            "text": "Help Us Grow Section: A new section makes it easier to find social channels and support the project directly."
+          },
+          {
+            "type": "improved",
+            "text": "PWA Experience: Installation behavior and standalone launch support have been improved across devices for a smoother app-like experience."
+          },
+          {
+            "type": "new",
+            "text": "Start From Your Location: With permission enabled, the app can now initialize the map from your current location."
+          },
+          {
+            "type": "improved",
+            "text": "SEO and Metadata: Search metadata has been refined to improve clarity and discoverability in search engines."
+          }
+        ]
+      },
+      {
+        "title": "For the Technical Crowd",
+        "image": "",
+        "points": [
+          {
+            "type": "core",
+            "text": "Architecture Upgrade: For the builders and nerds among you, the codebase was migrated from JavaScript to TypeScript and reorganized around feature-first hexagonal architecture."
+          },
+          {
+            "type": "new",
+            "text": "Contributor Experience: The repository now includes clearer contributor guidance plus an agent-focused development guide."
+          }
+        ]
+      },
+      {
+        "title": "What's Next",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "Roadmap Preview: Next up are simplified theme controls, SVG export, expert map-detail mode, richer typography controls with online or uploaded fonts, and locally saved custom themes."
+          }
+        ]
+      }
+    ]
+  }
+]
