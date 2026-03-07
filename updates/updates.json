@@ -1,5 +1,100 @@
 [
   {
+    "version": "0.3.0",
+    "date": "2026-03-07",
+    "labels": {
+      "summaryTitle": "You want it? You got it! What's new:",
+      "detailsTitle": "Update details"
+    },
+    "summary": {
+      "title": "Biggest Changes in This Release",
+      "points": [
+        {
+          "type": "major",
+          "text": "Custom Markers: You can now add as many markers as you want, upload your own marker artwork, and control marker size and color individually or in bulk."
+        },
+        {
+          "type": "new",
+          "text": "SVG Export: Maps can now be exported as SVG for cleaner scaling and more flexible editing workflows."
+        },
+        {
+          "type": "improved",
+          "text": "300 DPI Output: PNG and PDF exports now support 300 DPI resolution for sharper print-ready results."
+        },
+        {
+          "type": "new",
+          "text": "Layer Toggles: You now have direct control over which map layers stay visible, making it easier to simplify or refine the map."
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Mark Up the Map Your Way",
+        "image": "",
+        "points": [
+          {
+            "type": "major",
+            "text": "Unlimited Markers: You can now place as many markers on the map as you need."
+          },
+          {
+            "type": "new",
+            "text": "Custom Marker Uploads: Your own marker graphics can now be uploaded and used directly on the map."
+          },
+          {
+            "type": "new",
+            "text": "Flexible Marker Styling: Marker size and color can now be adjusted per marker or applied across all markers at once."
+          }
+        ]
+      },
+      {
+        "title": "Export for Editing and Print",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "SVG Export: You can now export as SVG for crisp scaling and easier downstream editing."
+          },
+          {
+            "type": "improved",
+            "text": "High-Resolution Printing: PNG and PDF exports now support 300 DPI output."
+          }
+        ]
+      },
+      {
+        "title": "More Control While Editing",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "Layer Visibility Toggles: You can now choose which map layers are visible, giving you finer control over the final look."
+          },
+          {
+            "type": "new",
+            "text": "Jump to Your Location: A new button can center the map on your current location after browser permission is granted."
+          },
+          {
+            "type": "improved",
+            "text": "Display Name Rendering: Display names now stay stable after manual changes and only refresh again when the location changes."
+          },
+          {
+            "type": "fixed",
+            "text": "Color Picker Fix: Issues with the color picker behavior have been resolved."
+          }
+        ]
+      },
+      {
+        "title": "Contributor Workflow Updates",
+        "image": "",
+        "points": [
+          {
+            "type": "improved",
+            "text": "Contribution Guide Refresh: The contributor guide now includes clearer rules plus a pull request template to make submissions more consistent."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "version": "0.2.0",
     "date": "2026-03-03",
     "labels": {
