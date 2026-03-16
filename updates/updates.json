@@ -1,9 +1,130 @@
-[
+﻿[
+  {
+    "version": "0.4.0",
+    "date": "2026-03-17",
+    "labels": {
+      "summaryTitle": "Fresh look, smoother flow: what\u0027s new",
+      "detailsTitle": "Release details"
+    },
+    "summary": {
+      "title": "Biggest Changes in This Release",
+      "points": [
+        {
+          "type": "community",
+          "text": "Thanks for Testing: Huge thanks for your feedback on Reddit, Threads, GitHub Discussions, and by email. Please keep it coming - I read it all and it really helps shape what comes next."
+        },
+        {
+          "type": "major",
+          "text": "UI and UX Refresh: The app layout and interaction flow were refined across desktop and mobile, with many small usability and visual improvements."
+        },
+        {
+          "type": "improved",
+          "text": "Mobile + PWA Standalone Improvements: The mobile experience was improved significantly, especially when running the app as a homescreen shortcut."
+        },
+        {
+          "type": "new",
+          "text": "Marker Resizing Controls: Markers can now be resized with touch gestures on mobile and with mouse wheel or +/- keyboard shortcuts on desktop."
+        },
+        {
+          "type": "new",
+          "text": "Brand Refresh: Terraink now uses a simpler, more representative logo."
+        }
+      ]
+    },
+    "steps": [
+      {
+        "title": "Visual Refresh and Branding",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "New Logo: Branding was refreshed with a simpler, more representative logo."
+          },
+          {
+            "type": "major",
+            "text": "Theme and Layout Card Updates: Card styling and readability were refined, including improved responsive behavior and interaction consistency."
+          }
+        ]
+      },
+      {
+        "title": "Mobile and Desktop UX Upgrades",
+        "image": "",
+        "points": [
+          {
+            "type": "improved",
+            "text": "Mobile Responsiveness: Safe-area handling and mobile shortcut behavior were improved for a more app-like feel."
+          },
+          {
+            "type": "fixed",
+            "text": "Small Bug Fixes: Numerous UI edge cases and interaction bugs across desktop and mobile were addressed."
+          }
+        ]
+      },
+      {
+        "title": "Marker Editing and Detail Control",
+        "image": "",
+        "points": [
+          {
+            "type": "new",
+            "text": "Desktop Marker Resizing: Select a marker and resize with mouse wheel or + / - keys."
+          },
+          {
+            "type": "new",
+            "text": "Mobile Marker Resizing: Marker resizing now supports touch interaction for faster on-device editing."
+          },
+          {
+            "type": "improved",
+            "text": "Closer Map Detail: Minimum map distance now goes down to 50m (from 1000m) for tighter street and building-level views."
+          }
+        ]
+      },
+      {
+        "title": "Documentation and Project Notes",
+        "image": "",
+        "points": [
+          {
+            "type": "docs",
+            "text": "Contributor Guide Update: Contribution documentation was refreshed for clearer collaboration."
+          },
+          {
+            "type": "docs",
+            "text": "Trademark Note: A short trademark note was added in the GitHub README and a few spots on the website as Terraink started getting more attention."
+          }
+        ]
+      },
+      {
+        "title": "What\u0027s Next",
+        "image": "",
+        "points": [
+          {
+            "type": "roadmap",
+            "text": "Route Display: Add route visualization between two selected points."
+          },
+          {
+            "type": "roadmap",
+            "text": "Themes and Fonts: Add more built-in themes, new fonts, and more options in the typography section."
+          },
+          {
+            "type": "roadmap",
+            "text": "Custom Themes: Let users create their own themes, save them, and import them later."
+          },
+          {
+            "type": "roadmap",
+            "text": "Local Save: Add the ability to save the latest creation locally."
+          },
+          {
+            "type": "roadmap",
+            "text": "Map Detail Controls: Add finer controls for line widths plus more toggleable map layers and details."
+          }
+        ]
+      }
+    ]
+  },
   {
     "version": "0.3.0",
     "date": "2026-03-07",
     "labels": {
-      "summaryTitle": "You want it? You got it! What's new:",
+      "summaryTitle": "You want it? You got it! What\u0027s new:",
       "detailsTitle": "Update details"
     },
     "summary": {
@@ -220,7 +341,7 @@
         ]
       },
       {
-        "title": "What's Next",
+        "title": "What\u0027s Next",
         "image": "",
         "points": [
           {
