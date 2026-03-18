@@ -1,7 +1,7 @@
 ﻿[
   {
-    "version": "0.4.0",
-    "date": "2026-03-17",
+    "version": "0.4.1",
+    "date": "2026-03-19",
     "labels": {
       "summaryTitle": "Fresh look, smoother flow: what\u0027s new",
       "detailsTitle": "Release details"
@@ -23,7 +23,7 @@
         },
         {
           "type": "new",
-          "text": "Marker Resizing Controls: Markers can now be resized with touch gestures on mobile and with mouse wheel or +/- keyboard shortcuts on desktop."
+          "text": "Marker Resizing Controls: Markers can now be resized with a slider on mobile and with mouse wheel or +/- keyboard shortcuts on desktop."
         },
         {
           "type": "new",
@@ -57,6 +57,10 @@
           {
             "type": "fixed",
             "text": "Small Bug Fixes: Numerous UI edge cases and interaction bugs across desktop and mobile were addressed."
+          },
+          {
+            "type": "improved",
+            "text": "Performance Enhancements: Chunk-based code splitting plus lazy loading for non-critical UI components improved startup responsiveness."
           }
         ]
       },
@@ -70,7 +74,7 @@
           },
           {
             "type": "new",
-            "text": "Mobile Marker Resizing: Marker resizing now supports touch interaction for faster on-device editing."
+            "text": "Mobile Marker Resizing: Marker resizing now uses a dedicated slider for faster and more reliable on-device editing."
           },
           {
             "type": "improved",
