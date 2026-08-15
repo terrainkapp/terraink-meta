@@ -94,11 +94,13 @@ Dies betrifft:
 Datenschutzerklärung: [https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
 
 ### 10. Cookies und Einwilligungsverwaltung
-Wir verwenden Cookies und ähnliche Technologien für Analyse- und Werbezwecke. Beim ersten Besuch unserer Website wird Ihnen ein Einwilligungsbanner angezeigt. Ohne Ihre Einwilligung werden keine Analyse- oder Werbe-Cookies gesetzt.
+Wir verwenden Cookies und ähnliche Technologien für Analyse- und Werbezwecke. Beim ersten Besuch unserer Website wird Ihnen ein Einwilligungsbanner (Consent Management Platform, CMP) angezeigt. Ohne Ihre Einwilligung werden keine Analyse- oder Werbe-Cookies gesetzt.
 
-Die Steuerung erfolgt über den **Google Consent Mode v2**. Bis zu einer Einwilligung sind die entsprechenden Einwilligungssignale standardmäßig auf „denied“ gesetzt.
+Die CMP wird uns von unserem Vermarktungspartner Mediavine bereitgestellt und ist nach dem **IAB Europe Transparency & Consent Framework (TCF) v2.2** zertifiziert. Ihre Auswahl wird als sogenannter TC-String gespeichert und an die eingebundenen Werbepartner (Vendors) übermittelt. Im Banner können Sie Ihre Einwilligung für jeden Verarbeitungszweck und für jeden einzelnen Anbieter separat erteilen oder verweigern.
 
-Sie können Ihre Einwilligung jederzeit über den Cookie-Einstellungen-Link im Footer dieser Seite widerrufen oder anpassen. Der Widerruf wirkt für die Zukunft; die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
+Ergänzend wird der **Google Consent Mode v2** angesteuert. Bis zu einer Einwilligung sind die entsprechenden Einwilligungssignale standardmäßig auf „denied“ gesetzt.
+
+Sie können Ihre Einwilligung jederzeit über den Link **„Update Privacy Settings“** im Footer dieser Seite widerrufen oder anpassen. Der Widerruf wirkt für die Zukunft; die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
 
 **Rechtsgrundlage:** § 25 Abs. 1 TDDDG i. V. m. Art. 6 Abs. 1 lit. a DSGVO.
 
@@ -115,19 +117,20 @@ Sie können der Erfassung widersprechen, indem Sie Ihre Einwilligung widerrufen 
 
 Datenschutzerklärung von Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-### 12. Google AdSense
-Wir verwenden **Google AdSense**, einen Dienst zur Einbindung von Werbeanzeigen der Google Ireland Limited. Google AdSense verwendet Cookies und Web-Beacons, um für Sie relevante Anzeigen zu schalten. Dabei können Daten wie Ihre IP-Adresse, Browsertyp und besuchte Seiten an Google übertragen werden.
+### 12. Werbung (Mediavine)
+Wir vermarkten die Werbeflächen dieser Website über **Mediavine** (Journey by Mediavine), Mediavine, Inc., USA. Das Werbeskript wird bei jedem Seitenaufruf geladen und bindet Werbeanzeigen sowie eine Vielzahl von Werbepartnern (Vendors) ein, die im Rahmen des IAB TCF gelistet sind. In der EU, im EWR, im Vereinigten Königreich und in der Schweiz werden ohne Ihre Einwilligung keine Cookies gesetzt und keine personalisierte Werbung ausgespielt.
 
-Das Skript von Google AdSense wird bei jedem Seitenaufruf geladen. In der EU, im EWR, im Vereinigten Königreich und in der Schweiz werden ohne Ihre Einwilligung jedoch keine Cookies gesetzt und keine personalisierte Werbung ausgespielt.
+Dabei können unter anderem Ihre IP-Adresse, Geräte- und Browserkennungen, aufgerufene Seiten sowie Interaktionen mit Anzeigen verarbeitet werden. Je nach Ihrer Auswahl umfasst dies auch genaue Standortdaten und Geräteeigenschaften zur Identifikation. Einige Anbieter stützen einzelne Verarbeitungen auf ein **berechtigtes Interesse**; diesen können Sie im Banner widersprechen.
 
-**Zweck:** Anzeige personalisierter oder nicht-personalisierter Werbung.<br>
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).
+Die jeweils aktuelle Liste der Zwecke und Werbepartner finden Sie im Einwilligungsbanner unter „Settings“.
 
-Datenschutzerklärung von Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)<br>
-Opt-out für personalisierte Werbung: [https://myadcenter.google.com](https://myadcenter.google.com)
+**Zweck:** Finanzierung des kostenlosen Angebots durch Anzeige personalisierter oder nicht-personalisierter Werbung.<br>
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung); für einzelne Anbieter ergänzend Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+
+Datenschutzerklärung von Mediavine: [https://www.mediavine.com/privacy-policy/](https://www.mediavine.com/privacy-policy/)
 
 ### 13. Datenübermittlung in Drittländer
-Einige der oben genannten Dienste haben ihren Sitz in den USA oder übermitteln Daten dorthin, insbesondere Cloudflare, Inc., GitHub, Inc. sowie die Google LLC als Muttergesellschaft der Google Ireland Limited.
+Einige der oben genannten Dienste haben ihren Sitz in den USA oder übermitteln Daten dorthin, insbesondere Cloudflare, Inc., GitHub, Inc., die Google LLC als Muttergesellschaft der Google Ireland Limited sowie Mediavine, Inc. und die über das IAB TCF eingebundenen Werbepartner.
 
 Grundlage der Übermittlung ist der Angemessenheitsbeschluss der Europäischen Kommission vom 10. Juli 2023 zum **EU-US Data Privacy Framework**, soweit die jeweiligen Unternehmen dort zertifiziert sind, ergänzend die **Standardvertragsklauseln** der Europäischen Kommission gemäß Art. 46 Abs. 2 lit. c DSGVO.
 
@@ -238,11 +241,13 @@ This applies to:
 Privacy policy: [https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
 
 ### 10. Cookies and Consent Management
-We use cookies and similar technologies for analytics and advertising purposes. On your first visit, a consent banner will be displayed. No analytics or advertising cookies are set without your explicit consent.
+We use cookies and similar technologies for analytics and advertising purposes. On your first visit, a consent banner (Consent Management Platform, CMP) will be displayed. No analytics or advertising cookies are set without your explicit consent.
 
-Consent is controlled via **Google Consent Mode v2**. Until consent is given, the relevant consent signals default to "denied".
+The CMP is provided to us by our advertising partner Mediavine and is certified under the **IAB Europe Transparency & Consent Framework (TCF) v2.2**. Your choices are stored as a so-called TC string and transmitted to the integrated advertising partners (vendors). In the banner you can grant or refuse consent separately for each processing purpose and for each individual vendor.
 
-You can withdraw or adjust your consent at any time via the cookie settings link in the footer of this page. Withdrawal takes effect for the future; the lawfulness of processing carried out prior to withdrawal remains unaffected.
+In addition, **Google Consent Mode v2** is signalled. Until consent is given, the relevant consent signals default to "denied".
+
+You can withdraw or adjust your consent at any time via the **"Update Privacy Settings"** link in the footer of this page. Withdrawal takes effect for the future; the lawfulness of processing carried out prior to withdrawal remains unaffected.
 
 **Legal Basis:** § 25 (1) TDDDG in conjunction with Art. 6 (1) (a) GDPR.
 
@@ -259,19 +264,20 @@ You can opt out by withdrawing your consent or by installing the browser add-on:
 
 Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-### 12. Google AdSense
-We use **Google AdSense**, an advertising service provided by Google Ireland Limited. Google AdSense uses cookies and web beacons to serve relevant ads. Data such as your IP address, browser type, and pages visited may be transmitted to Google.
+### 12. Advertising (Mediavine)
+We monetise the advertising space on this website through **Mediavine** (Journey by Mediavine), Mediavine, Inc., USA. The advertising script is loaded on every page view and integrates advertisements as well as a large number of advertising partners (vendors) listed under the IAB TCF. In the EU, the EEA, the United Kingdom and Switzerland, no cookies are set and no personalised advertising is served without your consent.
 
-The Google AdSense script is loaded on every page view. In the EU, the EEA, the United Kingdom and Switzerland, however, no cookies are set and no personalised advertising is served without your consent.
+The data processed may include your IP address, device and browser identifiers, pages visited, and interactions with advertisements. Depending on your choices, this also covers precise geolocation data and device characteristics used for identification. Some vendors rely on **legitimate interest** for certain processing, which you can object to in the banner.
 
-**Purpose:** Displaying personalized or non-personalized advertisements.<br>
-**Legal Basis:** Art. 6 (1) (a) GDPR — consent.
+The current list of purposes and advertising partners is shown in the consent banner under "Settings".
 
-Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)<br>
-Opt out of personalized ads: [https://myadcenter.google.com](https://myadcenter.google.com)
+**Purpose:** Funding this free service by displaying personalised or non-personalised advertising.<br>
+**Legal Basis:** Art. 6 (1) (a) GDPR — consent; for individual vendors additionally Art. 6 (1) (f) GDPR — legitimate interest.
+
+Mediavine's Privacy Policy: [https://www.mediavine.com/privacy-policy/](https://www.mediavine.com/privacy-policy/)
 
 ### 13. International Data Transfers
-Some of the services listed above are based in the USA or transfer data there — in particular Cloudflare, Inc., GitHub, Inc., and Google LLC as the parent company of Google Ireland Limited.
+Some of the services listed above are based in the USA or transfer data there — in particular Cloudflare, Inc., GitHub, Inc., Google LLC as the parent company of Google Ireland Limited, as well as Mediavine, Inc. and the advertising partners integrated via the IAB TCF.
 
 Such transfers are based on the European Commission's adequacy decision of 10 July 2023 regarding the **EU-US Data Privacy Framework**, insofar as the respective companies are certified under it, and additionally on the European Commission's **Standard Contractual Clauses** pursuant to Art. 46 (2) (c) GDPR.
 
