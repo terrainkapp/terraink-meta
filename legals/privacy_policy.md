@@ -94,15 +94,15 @@ Dies betrifft:
 Datenschutzerklärung: [https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
 
 ### 10. Cookies und Einwilligungsverwaltung
-Wir verwenden Cookies und ähnliche Technologien für Analyse- und Werbezwecke. Beim ersten Besuch unserer Website wird Ihnen ein Einwilligungsbanner (Consent Management Platform, CMP) angezeigt. Ohne Ihre Einwilligung werden keine Analyse- oder Werbe-Cookies gesetzt.
+Wir verwenden Cookies und ähnliche Technologien für Analyse- und Werbezwecke. Beim ersten Besuch unserer Website wird Ihnen ein Einwilligungsbanner (Consent Management Platform, CMP) angezeigt. Ohne Ihre Einwilligung werden keine Analyse-Cookies und keine Cookies für personalisierte Werbung gesetzt. Zu eingeschränkter Werbung siehe Abschnitt 12.
 
-Die CMP wird von Google bereitgestellt (Datenschutz- und Mitteilungsfunktionen für AdSense). Im Banner können Sie Ihre Einwilligung für die einzelnen Verarbeitungszwecke erteilen oder verweigern; Ihre Auswahl wird gespeichert und an die eingebundenen Werbepartner übermittelt.
+Die CMP wird von Google bereitgestellt und entspricht dem IAB Transparency & Consent Framework (TCF). Im Banner können Sie Ihre Einwilligung für die einzelnen Verarbeitungszwecke erteilen oder verweigern und in den Detaileinstellungen der Verarbeitung auf Grundlage berechtigter Interessen widersprechen. Ihre Auswahl wird gespeichert und an Google sowie an die in der Partnerliste des Banners aufgeführten Werbepartner übermittelt.
 
 Die Steuerung erfolgt über den **Google Consent Mode v2**. Bis zu einer Einwilligung sind die entsprechenden Einwilligungssignale standardmäßig auf „denied“ gesetzt.
 
-Sie können Ihre Einwilligung jederzeit über den Link **„Cookie Settings“** im Footer dieser Seite widerrufen oder anpassen. Der Widerruf wirkt für die Zukunft; die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
+Sie können Ihre Einwilligung jederzeit über den Link **„Cookie Settings“** im Footer dieser Seite widerrufen oder anpassen und dort auch einer Verarbeitung auf Grundlage berechtigter Interessen widersprechen. Der Widerruf wirkt für die Zukunft; die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt.
 
-**Rechtsgrundlage:** § 25 Abs. 1 TDDDG i. V. m. Art. 6 Abs. 1 lit. a DSGVO.
+**Rechtsgrundlage:** § 25 Abs. 1 TDDDG i. V. m. Art. 6 Abs. 1 lit. a DSGVO; für eingeschränkte Werbung siehe Abschnitt 12.
 
 ### 11. Google Analytics
 Wir nutzen **Google Analytics 4**, einen Webanalysedienst der Google Ireland Limited. Google Analytics verwendet Cookies, um die Nutzung der Website zu analysieren. Die dadurch erzeugten Informationen werden an Server von Google übertragen und dort gespeichert. Google Analytics 4 speichert keine vollständigen IP-Adressen.
@@ -120,15 +120,17 @@ Datenschutzerklärung von Google: [https://policies.google.com/privacy](https://
 ### 12. Google AdSense
 Wir verwenden **Google AdSense**, einen Dienst zur Einbindung von Werbeanzeigen der Google Ireland Limited. Das Skript von Google AdSense wird bei jedem Seitenaufruf geladen. Google AdSense verwendet Cookies und Web-Beacons, um Anzeigen auszuliefern und deren Leistung zu messen. Dabei können Daten wie Ihre IP-Adresse, Geräte- und Browserkennungen sowie aufgerufene Seiten an Google übertragen werden.
 
-In der EU, im EWR, im Vereinigten Königreich und in der Schweiz werden ohne Ihre Einwilligung keine Cookies gesetzt und keine personalisierte Werbung ausgespielt.
+In der EU, im EWR, im Vereinigten Königreich und in der Schweiz wird personalisierte Werbung nur mit Ihrer Einwilligung ausgespielt. Ohne Einwilligung kann Google eingeschränkte Werbung („Limited Ads“) anzeigen. Dabei werden keine personenbezogenen Daten zur Personalisierung verwendet. Ihre IP-Adresse wird weiterhin zur Auslieferung der Anzeige verarbeitet, und zur Erkennung von Betrug und ungültigen Zugriffen können Cookies oder lokaler Speicher eingesetzt werden.
 
-**Zweck:** Finanzierung des kostenlosen Angebots durch Anzeige personalisierter oder nicht-personalisierter Werbung.<br>
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).
+Sie können der Verarbeitung auf Grundlage berechtigter Interessen jederzeit über den Link „Cookie Settings“ im Footer dieser Seite widersprechen.
+
+**Zweck:** Finanzierung des kostenlosen Angebots durch Anzeige personalisierter, nicht-personalisierter oder eingeschränkter Werbung; Schutz vor Betrug und ungültigen Zugriffen.<br>
+**Rechtsgrundlage:** Personalisierte Werbung: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung). Eingeschränkte Werbung: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Finanzierung des kostenlosen Angebots und an der Betrugsprävention); Speicherung zur Betrugserkennung: § 25 Abs. 2 Nr. 2 TDDDG.
 
 Datenschutzerklärung von Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ### 13. Datenübermittlung in Drittländer
-Einige der oben genannten Dienste haben ihren Sitz in den USA oder übermitteln Daten dorthin, insbesondere Cloudflare, Inc., GitHub, Inc. sowie die Google LLC als Muttergesellschaft der Google Ireland Limited.
+Einige der oben genannten Dienste haben ihren Sitz in den USA oder übermitteln Daten dorthin, insbesondere Cloudflare, Inc., GitHub, Inc., die Google LLC als Muttergesellschaft der Google Ireland Limited sowie die in der Partnerliste des Einwilligungsbanners aufgeführten Werbepartner.
 
 Grundlage der Übermittlung ist der Angemessenheitsbeschluss der Europäischen Kommission vom 10. Juli 2023 zum **EU-US Data Privacy Framework**, soweit die jeweiligen Unternehmen dort zertifiziert sind, ergänzend die **Standardvertragsklauseln** der Europäischen Kommission gemäß Art. 46 Abs. 2 lit. c DSGVO.
 
@@ -239,15 +241,15 @@ This applies to:
 Privacy policy: [https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
 
 ### 10. Cookies and Consent Management
-We use cookies and similar technologies for analytics and advertising purposes. On your first visit, a consent banner (Consent Management Platform, CMP) will be displayed. No analytics or advertising cookies are set without your explicit consent.
+We use cookies and similar technologies for analytics and advertising purposes. On your first visit, a consent banner (Consent Management Platform, CMP) will be displayed. No analytics cookies and no cookies for personalised advertising are set without your consent. For limited ads, see section 12.
 
-The CMP is provided by Google (privacy and messaging features for AdSense). In the banner you can grant or refuse consent for each processing purpose; your choices are stored and transmitted to the integrated advertising partners.
+The CMP is provided by Google and complies with the IAB Transparency & Consent Framework (TCF). In the banner you can grant or refuse consent for each processing purpose and, in the detailed settings, object to processing based on legitimate interest. Your choices are stored and transmitted to Google and to the advertising partners listed in the banner's partner list.
 
 Consent is controlled via **Google Consent Mode v2**. Until consent is given, the relevant consent signals default to "denied".
 
-You can withdraw or adjust your consent at any time via the **"Cookie Settings"** link in the footer of this page. Withdrawal takes effect for the future; the lawfulness of processing carried out prior to withdrawal remains unaffected.
+You can withdraw or adjust your consent at any time via the **"Cookie Settings"** link in the footer of this page, and also object there to processing based on legitimate interest. Withdrawal takes effect for the future; the lawfulness of processing carried out prior to withdrawal remains unaffected.
 
-**Legal Basis:** § 25 (1) TDDDG in conjunction with Art. 6 (1) (a) GDPR.
+**Legal Basis:** § 25 (1) TDDDG in conjunction with Art. 6 (1) (a) GDPR; for limited ads, see section 12.
 
 ### 11. Google Analytics
 We use **Google Analytics 4**, a web analytics service provided by Google Ireland Limited. Google Analytics uses cookies to analyze how our website is used. The information generated is transmitted to and stored on Google's servers. Google Analytics 4 does not store full IP addresses.
@@ -265,15 +267,17 @@ Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.
 ### 12. Google AdSense
 We use **Google AdSense**, an advertising service provided by Google Ireland Limited. The Google AdSense script is loaded on every page view. Google AdSense uses cookies and web beacons to serve ads and measure their performance. Data such as your IP address, device and browser identifiers, and pages visited may be transmitted to Google.
 
-In the EU, the EEA, the United Kingdom and Switzerland, no cookies are set and no personalised advertising is served without your consent.
+In the EU, the EEA, the United Kingdom and Switzerland, personalised advertising is only served with your consent. Without consent, Google may show limited ads. These do not use personal data for personalisation. Your IP address is still processed to deliver the ad, and cookies or local storage may be used to detect fraud and invalid traffic.
 
-**Purpose:** Funding this free service by displaying personalised or non-personalised advertising.<br>
-**Legal Basis:** Art. 6 (1) (a) GDPR — consent.
+You can object at any time to processing based on legitimate interest via the "Cookie Settings" link in the footer of this page.
+
+**Purpose:** Funding this free service by displaying personalised, non-personalised or limited advertising; protection against fraud and invalid traffic.<br>
+**Legal Basis:** Personalised advertising: Art. 6 (1) (a) GDPR — consent. Limited ads: Art. 6 (1) (f) GDPR — legitimate interest in funding this free service and preventing fraud; storage for fraud detection: § 25 (2) no. 2 TDDDG.
 
 Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ### 13. International Data Transfers
-Some of the services listed above are based in the USA or transfer data there — in particular Cloudflare, Inc., GitHub, Inc., and Google LLC as the parent company of Google Ireland Limited.
+Some of the services listed above are based in the USA or transfer data there — in particular Cloudflare, Inc., GitHub, Inc., Google LLC as the parent company of Google Ireland Limited, and the advertising partners listed in the consent banner's partner list.
 
 Such transfers are based on the European Commission's adequacy decision of 10 July 2023 regarding the **EU-US Data Privacy Framework**, insofar as the respective companies are certified under it, and additionally on the European Commission's **Standard Contractual Clauses** pursuant to Art. 46 (2) (c) GDPR.
 
