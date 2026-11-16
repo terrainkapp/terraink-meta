@@ -88,7 +88,7 @@ Bestimmte Inhalte lädt die App unmittelbar aus einem öffentlichen Repository b
 Dies betrifft:
 
 - **Rechtstexte:** Impressum und Datenschutzerklärung werden beim Öffnen des jeweiligen Dokuments als Textdatei von GitHub geladen.
-- **Hinweise zu neuen Versionen:** Beim ersten Start sowie nach der Veröffentlichung einer neuen Version wird eine Datei mit den Versionshinweisen von GitHub abgerufen.
+- **Hinweise zu neuen Versionen:** Eine Datei mit den Versionshinweisen wird von GitHub abgerufen.
 - **Projektinformationen:** Zur Anzeige der Anzahl der Sterne des Open-Source-Repositories wird die öffentliche Programmierschnittstelle von GitHub abgerufen.
 
 **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (Berechtigtes Interesse an der stets aktuellen Bereitstellung der Rechtstexte und Versionshinweise sowie an der Information über das zugrundeliegende Open-Source-Projekt).
@@ -199,7 +199,7 @@ The app loads certain content directly from a public repository on **GitHub**. T
 This applies to:
 
 - **Legal documents:** the Legal Notice and this Privacy Policy are loaded from GitHub as text files when you open them.
-- **Release notes:** on first launch, and after each new release, a file containing the version notes is retrieved from GitHub.
+- **Release notes:** a file containing the version notes is retrieved from GitHub.
 - **Project information:** the public GitHub API is queried to display the star count of the open-source repository.
 
 **Legal Basis:** Art. 6 (1) (f) GDPR – legitimate interest in always serving the current legal texts and release notes, and in providing information about the underlying open-source project.
