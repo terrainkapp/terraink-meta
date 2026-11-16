@@ -1,4 +1,46 @@
 ﻿[
+    {
+        "version": "0.5.0",
+        "date": "2026-11-16",
+        "image": "images/release-0-5-0.webp",
+        "labels": {
+            "summaryTitle": "Verona Autumn: what's new"
+        },
+        "summary": {
+            "title": "Biggest changes",
+            "points": [
+                {
+                    "type": "major",
+                    "text": "12 languages: Terraink now speaks German, Spanish, French, Italian, Portuguese, Dutch, Polish, Turkish, Arabic, Japanese and Chinese."
+                },
+                {
+                    "type": "new",
+                    "text": "Color tab: Change brightness, contrast, hue, warmth and more for the whole theme, then save it."
+                },
+                {
+                    "type": "new",
+                    "text": "New themes: Nine new themes, sorted into categories, plus favorites."
+                },
+                {
+                    "type": "new",
+                    "text": "Poster design: A Text tab with font previews, borders, divider lines, style templates and coordinate formats."
+                },
+                {
+                    "type": "new",
+                    "text": "Country borders: A new map layer for borders and coastlines."
+                },
+                {
+                    "type": "improved",
+                    "text": "Faster start: Continue with your last place or pick a recent one."
+                },
+                {
+                    "type": "improved",
+                    "text": "Your defaults: Save your own themes and default settings."
+                }
+            ]
+        },
+        "steps": []
+    },
   {
     "version": "0.4.1",
     "date": "2026-03-19",
