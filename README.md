@@ -19,3 +19,7 @@ Use this repo for non-application runtime code that powers Terraink externally, 
 ## Current structure
 
 - `updates/updates.json`: release notes and update modal content for terraink.app.
+
+## License
+
+All rights reserved, see [LICENSE](./LICENSE). The [Terraink app's](https://github.com/yousifamanuel/terraink) AGPL-3.0 license does not cover this repository.
