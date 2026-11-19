@@ -1,0 +1,366 @@
+{
+  "themes": {
+    "miami_night": {
+      "name": "Miami Night",
+      "description": {
+        "en": "Purple night with pink main roads fading into sunset orange.",
+        "de": "Violette Nacht mit pinken Hauptstraßen, die in Sonnenuntergangs-Orange übergehen.",
+        "es": "Noche morada con avenidas rosas que se funden en naranja atardecer.",
+        "fr": "Nuit violette, grands axes roses qui virent à l'orange du couchant.",
+        "it": "Notte viola con strade principali rosa che sfumano nell'arancio del tramonto.",
+        "ja": "紫の夜にピンクの幹線道路、夕焼けのオレンジへと続く配色。",
+        "nl": "Paarse nacht met roze hoofdwegen die overgaan in zonsondergangoranje.",
+        "pl": "Fioletowa noc z różowymi głównymi drogami przechodzącymi w zachodzący pomarańcz.",
+        "pt-br": "Noite roxa com avenidas rosa que se fundem no laranja do pôr do sol.",
+        "tr": "Mor gece; pembe ana yollar gün batımı turuncusuna dönüşüyor.",
+        "zh": "紫色夜晚，粉色主干道渐变为日落橙。",
+        "ar": "ليل بنفسجي وطرق رئيسية وردية تتدرج إلى برتقالي الغروب."
+      },
+      "app": {
+        "logo": "logos/miami-night.svg",
+        "titleFont": "Monoton",
+        "accent": "ui.text",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#2B1146",
+        "text": "#FFB347"
+      },
+      "map": {
+        "land": "#2B1146",
+        "landcover": "#341657",
+        "water": "#1F0C4C",
+        "waterway": "#3B1A7A",
+        "parks": "#371550",
+        "buildings": "#5C2B85",
+        "aeroway": "#3A1A66",
+        "rail": "#FFB347",
+        "roads": {
+          "major": "#FF4FA0",
+          "minor_high": "#FF7A6B",
+          "minor_mid": "#A64E5B",
+          "minor_low": "#633889",
+          "path": "#4D296F",
+          "outline": "#2B1146"
+        }
+      }
+    },
+    "sunset_drive": {
+      "name": "Sunset Drive",
+      "description": {
+        "en": "Warm dusk with glowing yellow and orange roads.",
+        "de": "Warme Dämmerung mit leuchtend gelben und orangen Straßen.",
+        "es": "Atardecer cálido con calles amarillas y naranjas brillantes.",
+        "fr": "Crépuscule chaud aux routes jaunes et orange lumineuses.",
+        "it": "Crepuscolo caldo con strade gialle e arancioni luminose.",
+        "ja": "温かな夕暮れに、輝く黄色とオレンジの道路。",
+        "nl": "Warme schemering met gloeiend gele en oranje wegen.",
+        "pl": "Ciepły zmierzch ze świecącymi żółtymi i pomarańczowymi drogami.",
+        "pt-br": "Entardecer quente com ruas amarelas e laranja brilhantes.",
+        "tr": "Parlayan sarı ve turuncu yollarla sıcak bir alacakaranlık.",
+        "zh": "温暖黄昏，道路闪耀着黄色与橙色。",
+        "ar": "غسق دافئ بطرق صفراء وبرتقالية متوهجة."
+      },
+      "app": {
+        "logo": "logos/sunset-drive.svg",
+        "titleFont": "Yellowtail",
+        "accent": "map.roads.minor_high",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#2A0F1F",
+        "text": "#FFD84A"
+      },
+      "map": {
+        "land": "#2A0F1F",
+        "landcover": "#34132A",
+        "water": "#1A0816",
+        "waterway": "#45162F",
+        "parks": "#3A1626",
+        "buildings": "#5A2234",
+        "aeroway": "#3D1428",
+        "rail": "#FFD84A",
+        "roads": {
+          "major": "#FFD84A",
+          "minor_high": "#FFA62B",
+          "minor_mid": "#A66726",
+          "minor_low": "#77362A",
+          "path": "#592726",
+          "outline": "#2A0F1F"
+        }
+      }
+    },
+    "ocean_neon": {
+      "name": "Ocean Neon",
+      "description": {
+        "en": "Deep sea night with cyan and teal neon roads.",
+        "de": "Tiefseenacht mit Straßen in Cyan- und Petrol-Neon.",
+        "es": "Noche de mar profundo con calles de neón cian y turquesa.",
+        "fr": "Nuit des grands fonds aux routes néon cyan et sarcelle.",
+        "it": "Notte d'alto mare con strade al neon ciano e verde acqua.",
+        "ja": "深海の夜に、シアンとティールのネオン道路。",
+        "nl": "Diepzeenacht met neonwegen in cyaan en petrol.",
+        "pl": "Głębinowa noc z neonowymi drogami w cyjanie i morskiej zieleni.",
+        "pt-br": "Noite de mar profundo com ruas em neon ciano e verde-água.",
+        "tr": "Camgöbeği ve deniz mavisi neon yollarla derin deniz gecesi.",
+        "zh": "深海之夜，青色与蓝绿色霓虹道路。",
+        "ar": "ليل بحري عميق بطرق نيون سماوية وفيروزية."
+      },
+      "app": {
+        "logo": "logos/ocean-neon.svg",
+        "titleFont": "Righteous",
+        "accent": "map.rail",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#03191F",
+        "text": "#5FF7FF"
+      },
+      "map": {
+        "land": "#03191F",
+        "landcover": "#052329",
+        "water": "#021015",
+        "waterway": "#063540",
+        "parks": "#062B2A",
+        "buildings": "#0D4A52",
+        "aeroway": "#08303A",
+        "rail": "#14C9A0",
+        "roads": {
+          "major": "#5FF7FF",
+          "minor_high": "#2FD9E0",
+          "minor_mid": "#1D888F",
+          "minor_low": "#135E64",
+          "path": "#0D4349",
+          "outline": "#03191F"
+        }
+      }
+    },
+    "palm_dusk": {
+      "name": "Palm Dusk",
+      "description": {
+        "en": "Soft lilac dusk with peach and mauve roads.",
+        "de": "Sanfte Flieder-Dämmerung mit Straßen in Pfirsich und Mauve.",
+        "es": "Suave atardecer lila con calles melocotón y malva.",
+        "fr": "Doux crépuscule lilas aux routes pêche et mauve.",
+        "it": "Morbido crepuscolo lilla con strade pesca e malva.",
+        "ja": "やわらかなライラックの夕暮れに、ピーチとモーブの道路。",
+        "nl": "Zachte lila schemering met perzik- en mauvekleurige wegen.",
+        "pl": "Łagodny liliowy zmierzch z brzoskwiniowymi i fiołkowymi drogami.",
+        "pt-br": "Suave entardecer lilás com ruas pêssego e malva.",
+        "tr": "Şeftali ve leylak yollarla yumuşak lila bir alacakaranlık.",
+        "zh": "柔和的淡紫黄昏，桃色与紫红色道路。",
+        "ar": "غسق ليلكي ناعم بطرق بلون الخوخ والبنفسجي الفاتح."
+      },
+      "app": {
+        "logo": "logos/palm-dusk.svg",
+        "titleFont": "Pacifico",
+        "accent": "map.roads.major",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#241733",
+        "text": "#FFB38A"
+      },
+      "map": {
+        "land": "#241733",
+        "landcover": "#2C1C40",
+        "water": "#33285A",
+        "waterway": "#46387A",
+        "parks": "#283139",
+        "buildings": "#4A3060",
+        "aeroway": "#352545",
+        "rail": "#FF8FB1",
+        "roads": {
+          "major": "#FFA27A",
+          "minor_high": "#FF8FB1",
+          "minor_mid": "#9E5D95",
+          "minor_low": "#6B4476",
+          "path": "#483059",
+          "outline": "#241733"
+        }
+      }
+    },
+    "florida_beach": {
+      "name": "Florida Beach",
+      "description": {
+        "en": "Beach at night: sand-gold roads glowing by a dark turquoise sea.",
+        "de": "Strand bei Nacht: sandgoldene Straßen leuchten am dunkeltürkisen Meer.",
+        "es": "Playa de noche: calles color arena brillan junto a un mar turquesa oscuro.",
+        "fr": "Plage de nuit : routes or sable qui brillent près d'une mer turquoise sombre.",
+        "it": "Spiaggia di notte: strade color sabbia che brillano sul mare turchese scuro.",
+        "ja": "夜のビーチ：暗いターコイズの海辺に砂金色の道が輝く。",
+        "nl": "Strand bij nacht: zandgouden wegen gloeien bij een donker turquoise zee.",
+        "pl": "Plaża nocą: piaskowozłote drogi świecą nad ciemnoturkusowym morzem.",
+        "pt-br": "Praia à noite: ruas cor de areia brilham junto a um mar turquesa escuro.",
+        "tr": "Gece plajı: koyu turkuaz denizin yanında parlayan kum altını yollar.",
+        "zh": "夜晚海滩：沙金色道路在深碧海边发光。",
+        "ar": "شاطئ ليلاً: طرق بلون الرمل الذهبي تتوهج قرب بحر فيروزي داكن."
+      },
+      "app": {
+        "logo": "logos/florida-beach.svg",
+        "titleFont": "Faster One",
+        "accent": "map.roads.major",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#071E26",
+        "text": "#FFD27A"
+      },
+      "map": {
+        "land": "#071E26",
+        "landcover": "#0A2730",
+        "water": "#0A4A55",
+        "waterway": "#14B8C4",
+        "parks": "#0B2A2A",
+        "buildings": "#12404A",
+        "aeroway": "#0D2F38",
+        "rail": "#FFF1D0",
+        "roads": {
+          "major": "#FFD27A",
+          "minor_high": "#FFF1D0",
+          "minor_mid": "#928C6F",
+          "minor_low": "#5B6152",
+          "path": "#394540",
+          "outline": "#071E26"
+        },
+        "sand": "#4A4128"
+      }
+    },
+    "cyber_city": {
+      "name": "Cyber City",
+      "description": {
+        "en": "Dark blue city with acid-lime and blue roads.",
+        "de": "Dunkelblaue Stadt mit Straßen in Neon-Limette und Blau.",
+        "es": "Ciudad azul oscuro con calles lima ácido y azules.",
+        "fr": "Ville bleu nuit aux routes vert acide et bleues.",
+        "it": "Città blu scuro con strade lime acido e blu.",
+        "ja": "濃紺の街に、ライムとブルーの道路。",
+        "nl": "Donkerblauwe stad met zuurgroene en blauwe wegen.",
+        "pl": "Ciemnoniebieskie miasto z limonkowymi i niebieskimi drogami.",
+        "pt-br": "Cidade azul-escura com ruas verde-limão e azuis.",
+        "tr": "Asit yeşili ve mavi yollarla koyu mavi şehir.",
+        "zh": "深蓝城市，酸橙绿与蓝色道路。",
+        "ar": "مدينة زرقاء داكنة بطرق ليمونية حادة وزرقاء."
+      },
+      "app": {
+        "logo": "logos/cyber-city.svg",
+        "titleFont": "Orbitron",
+        "accent": "map.roads.major",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#07101F",
+        "text": "#C6FF3D"
+      },
+      "map": {
+        "land": "#07101F",
+        "landcover": "#0A1628",
+        "water": "#030914",
+        "waterway": "#0D2046",
+        "parks": "#0C1F1C",
+        "buildings": "#13254A",
+        "aeroway": "#0E1A33",
+        "rail": "#3D7BFF",
+        "roads": {
+          "major": "#C6FF3D",
+          "minor_high": "#8FE03A",
+          "minor_mid": "#264EA1",
+          "minor_low": "#1A3770",
+          "path": "#132850",
+          "outline": "#07101F"
+        }
+      }
+    },
+    "neon_city": {
+      "name": "Neon City",
+      "description": {
+        "en": "Night city in red and blue neon.",
+        "de": "Nachtstadt in rotem und blauem Neon.",
+        "es": "Ciudad nocturna en neón rojo y azul.",
+        "fr": "Ville de nuit en néon rouge et bleu.",
+        "it": "Città notturna al neon rosso e blu.",
+        "ja": "赤と青のネオンに染まる夜の街。",
+        "nl": "Nachtstad in rood en blauw neon.",
+        "pl": "Nocne miasto w czerwonym i niebieskim neonie.",
+        "pt-br": "Cidade noturna em neon vermelho e azul.",
+        "tr": "Kırmızı ve mavi neonla gece şehri.",
+        "zh": "红蓝霓虹下的夜城。",
+        "ar": "مدينة ليلية بنيون أحمر وأزرق."
+      },
+      "app": {
+        "logo": "logos/neon-city.svg",
+        "titleFont": "Bungee Inline",
+        "accent": "map.roads.minor_high",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#120A14",
+        "text": "#FF3B5C"
+      },
+      "map": {
+        "land": "#120A14",
+        "landcover": "#1A0E1C",
+        "water": "#060A18",
+        "waterway": "#0F2240",
+        "parks": "#1A1020",
+        "buildings": "#2A1630",
+        "aeroway": "#1C1024",
+        "rail": "#3BB8FF",
+        "roads": {
+          "major": "#FF3B5C",
+          "minor_high": "#FF6F86",
+          "minor_mid": "#2A6F9C",
+          "minor_low": "#214969",
+          "path": "#1B3048",
+          "outline": "#120A14"
+        }
+      }
+    },
+    "everglades": {
+      "name": "Everglades",
+      "description": {
+        "en": "Swamp night with glowing green roads.",
+        "de": "Sumpfnacht mit leuchtend grünen Straßen.",
+        "es": "Noche de pantano con calles verdes brillantes.",
+        "fr": "Nuit de marais aux routes vert lumineux.",
+        "it": "Notte di palude con strade verdi luminose.",
+        "ja": "湿地の夜に、輝く緑の道路。",
+        "nl": "Moerasnacht met gloeiend groene wegen.",
+        "pl": "Bagienna noc ze świecącymi zielonymi drogami.",
+        "pt-br": "Noite de pântano com ruas verdes brilhantes.",
+        "tr": "Parlayan yeşil yollarla bataklık gecesi.",
+        "zh": "沼泽之夜，道路泛着绿光。",
+        "ar": "ليل المستنقعات بطرق خضراء متوهجة."
+      },
+      "app": {
+        "logo": "logos/everglades.svg",
+        "titleFont": "Lobster",
+        "accent": "map.roads.major",
+        "text": "ui.text"
+      },
+      "ui": {
+        "bg": "#06170F",
+        "text": "#B8FF6A"
+      },
+      "map": {
+        "land": "#06170F",
+        "landcover": "#0A2216",
+        "water": "#04120F",
+        "waterway": "#0B3324",
+        "parks": "#0D2A18",
+        "buildings": "#133A24",
+        "aeroway": "#0B2618",
+        "rail": "#16C46A",
+        "roads": {
+          "major": "#B8FF6A",
+          "minor_high": "#7FE85A",
+          "minor_mid": "#107F46",
+          "minor_low": "#0A4427",
+          "path": "#082919",
+          "outline": "#06170F"
+        },
+        "wetland": "#0B2A1C"
+      }
+    }
+  }
+}

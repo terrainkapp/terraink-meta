@@ -1,0 +1,29 @@
+{
+  "name": "Miami",
+  "defaultTheme": "miami_night",
+  "titleSize": 150,
+  "subtitleSize": 120,
+  "textGlow": true,
+  "roadGlow": true,
+  "themes": [
+    "miami_night",
+    "sunset_drive",
+    "ocean_neon",
+    "palm_dusk",
+    "florida_beach",
+    "cyber_city",
+    "neon_city",
+    "everglades"
+  ],
+  "fonts": [
+    "Monoton",
+    "Yellowtail",
+    "Righteous",
+    "Pacifico",
+    "Bungee",
+    "Bungee Inline",
+    "Orbitron",
+    "Lobster",
+    "Faster One"
+  ]
+}
