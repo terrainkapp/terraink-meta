@@ -13,7 +13,7 @@ Use this repo for non-application runtime code that powers Terraink externally, 
 
 ## Scope
 
-- Keep app source code in the main Terraink app [repository](https://github.com/terrainkapp/terraink).
+- Keep app source code in the main Terraink app [repository](https://github.com/yousifamanuel/terraink).
 - Keep data/config/content that can be updated independently in this meta repository.
 
 ## Current structure
