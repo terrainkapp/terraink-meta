@@ -1,0 +1,13 @@
+{
+  "hints": [
+    {
+      "version": "0.5.x",
+      "tabs": {
+        "text": ["text-position", "divider", "coordinate-format"],
+        "color": ["color-tab"],
+        "layers": ["country-borders"],
+        "style": ["poster-border", "title-glow", "road-glow"]
+      }
+    }
+  ]
+}
