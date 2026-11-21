@@ -32,6 +32,7 @@
     {
         "version": "0.5.0",
         "date": "2026-11-16",
+        "until": "0.5.x",
         "image": "images/release-0-5-0.webp",
         "labels": {
             "summaryTitle": "Verona Autumn: what's new"
